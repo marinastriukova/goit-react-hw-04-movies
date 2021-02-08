@@ -1,0 +1,25 @@
+.wrapper{
+    color: white;
+}
+
+.container{
+    display: flex;
+}
+
+.img{
+    max-width: 250px;
+}
+
+.info{
+    margin-left: 20px;
+
+}
+
+.list{
+    font-size: 18px;
+} 
+
+.items{
+    font-size: 12px;
+    padding: 4px 2px;
+}
